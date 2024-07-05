@@ -1,0 +1,12 @@
+#M{
+    color: orangered;
+    font-style: initial;
+    font-weight: 400;
+    text-align: calc();
+}
+#T{
+    color: blueviolet;
+    font-weight: 600;
+    text-decoration: solid;
+    font-style: oblique;
+}
